@@ -23,10 +23,14 @@ So join us in saying hello to **source code orchestration** and code how **you**
 
 If you have frustrations with source code management you want to see solved, please consider taking 5 mins to [complete our developer survey](https://forms.gle/Puzrk5fR7pt8m9Ao9)!
 
+## Join the community
+
+Be part of the Codort community by [joining our Discord](https://discord.com/invite/nnBHHbMr23), [subscribing to our newsletter](https://codort.com/contact), and forking/starring/following repositories in our organisation.
+
 ## Contributing :heart:
 
 We invite you to contribute and help improve Codort.
-Before making any contributions please make sure you've read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md).
+Before making any contributions please make sure you've read our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing Guidelines](../CONTRIBUTING.md).
 
 There are many ways you can be involved whether you're an experienced developer or completely new to coding and/or open-source.
 You could:
@@ -39,8 +43,3 @@ You could:
 
 💻**Write some code.** We are currently welcoming pull requests from contributors. If you've found a bug/issue and want to fix it yourself, please [open a pull request](https://github.com/Codort/website/pulls) with your change.
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-</details>
