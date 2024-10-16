@@ -67,3 +67,5 @@ Meet the amazing people who have contributed to our open-source codebase ([emoji
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
